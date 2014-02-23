@@ -20,3 +20,9 @@ _cgo_export.*
 _testmain.go
 
 *.exe
+
+helloworld_wrap.cxx
+helloworld_gc.c
+helloworld.go
+
+.DS_Store

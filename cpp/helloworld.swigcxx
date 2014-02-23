@@ -1,0 +1,6 @@
+%module helloworld
+%{
+	#include "helloworld.h"	
+%}
+
+%include "helloworld.h"
